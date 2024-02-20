@@ -1,9 +1,9 @@
-site_name: MASTER IN DESIGN FOR EMERGENT FUTURES
+site_name: EFDI - ESPECIALIZACIÓN EN INNOVACIÓN Y FABRICACIÓN DIGITAL
 site_description: MDEF Documentation
 site_author: IAAC, ELISAVA, Fab Lab Barcelona
 site_url: https://efdi-docs.github.io/efdi-repo/
-repo_name: mdef-docs
-repo_url: https://github.com/efdi-docs/efdi-repo
+repo_name: efdi-repo
+repo_url: https://github.com/efdi-docs/efdi-repo.git
 edit_uri: edit/main/docs/
 
 nav:
